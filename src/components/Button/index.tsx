@@ -1,10 +1,8 @@
 import { ButtonContainer, ButtonVariant } from './styles'
 
 interface ButtonProps {
-    variant?: ButtonVariant;
+  variant?: ButtonVariant
 }
 export function Button({ variant = 'primary' }: ButtonProps) {
-    return (
-        <ButtonContainer variant={variant}> ok </ButtonContainer>
-    )
+  return <ButtonContainer variant={variant}> ok </ButtonContainer>
 }
