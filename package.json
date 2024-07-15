@@ -12,11 +12,18 @@
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "date-fns": "^3.3.1",
+<<<<<<< HEAD
     "immer": "^10.1.1",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.51.4",
+=======
+    "phosphor-react": "^1.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.51.0",
+>>>>>>> cab3fe8ba41302f5e5e154d35b44ca177a6ee8a0
     "react-router-dom": "^6.22.1",
     "styled-components": "^6.1.8",
     "zod": "^3.22.4"
