@@ -8,7 +8,6 @@
 * Se interrompida;
 ![preview](./github/interrompido.png)
 
-
 > Trilha Ignite Projeto feito ao longo das aulas do segundo modulo do Ignite da Rocket:rocket:.
 
 ## :hammer_and_wrench: Tecnologias
