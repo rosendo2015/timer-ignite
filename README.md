@@ -1,11 +1,11 @@
 ![preview](./.github/pagina%20principal.png)
 # PROJETO: Desenvolver um timer com estilo pomodoroe que guarda as informações das tarfeas:
 * Se concluida;
-![preview](./.github/concluido.png)
+![preview](./github/concluido.png)
 * Se ainda estiver em andamento;
-![preview](./.github/em%20andamento.png)
+![preview](./github/em%20andamento.png)
 * Se interrompida;
-![preview](./.github/interrompido.png)
+![preview](./github/interrompido.png)
 
 
 > Trilha Ignite Projeto feito ao longo das aulas do segundo modulo do Ignite da Rocket:rocket:.
