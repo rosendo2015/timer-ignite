@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![preview](./github/pagina%20principal.png)
 # PROJETO: Desenvolver um timer com estilo pomodoroe que guarda as informações das tarfeas:
 * Se concluida;
