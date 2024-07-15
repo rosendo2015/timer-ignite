@@ -16,6 +16,7 @@
 - Typescript
 - Date-fns
 - Hooks do React
+- use Hook Form
 - Immer (biblioteca usapa para trabalhar com imutabilidade de elementos)
 - Localstorage
 - zod
