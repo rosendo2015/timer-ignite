@@ -21,6 +21,9 @@
 - zod
 - vite
 - Git e Github
+- Styled component
+- eslint
+- tailwind css
 
 
 ## :nut_and_bolt: Neste projeto aprendi
